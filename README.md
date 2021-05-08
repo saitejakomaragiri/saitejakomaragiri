@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saitejakomaragiri
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate with any company which will offer mw eith an internship in data science domain
+- 💞️ I’m looking to collaborate with any company which will offer me with an internship in data science domain
 - 📫 reach me via email : saitejakomaragiri@gmail.com
 
 <!---
